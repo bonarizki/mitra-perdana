@@ -11,7 +11,7 @@
 			<div class="row">
 				<div class="col-md-6"> 
 					<div class="form-group">
-						<label> Type Mobil </label>
+						<label> Type Motor </label>
 						<select name="kode_type" class="form-control">
 							<option value="">--Pilih Type Motor--</option>
 							<?php foreach ($type as $tp) : ?>

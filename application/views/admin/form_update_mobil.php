@@ -10,7 +10,7 @@
 			<div class="row">
 				<div class="col-md-6"> 
 					<div class="form-group">
-						<label> Type Mobil </label>
+						<label> Type Motor </label>
 						<input type="hidden" name="id_motor" value="<?php echo $mb->id_motor ?>">
 						<select name="kode_type" class="form-control">
 							<option value="<?php echo $mb->kode_type ?>"><?php echo $mb->nama_type ?></option>

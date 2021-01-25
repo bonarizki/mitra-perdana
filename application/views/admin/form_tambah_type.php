@@ -1,7 +1,7 @@
 <div class="main-content">
 	<div class="section">
 		<div class="section-header">
-			<h1> Form Tambah Type Mobil </h1>
+			<h1> Form Tambah Type Motor </h1>
 		</div>
 	</div>
 

@@ -11,7 +11,7 @@
                 <tr>
                     <th> Id Order </th>
                     <th> Nama Cust </th>
-                    <th> Jenis Mobil </th>
+                    <th> Jenis Motor </th>
                     <th> Plat </th>
                     <th> Status </th>
                     <th> Type</th>
@@ -22,7 +22,7 @@
                 <tr>
                     <th> Id Order </th>
                     <th> Nama Cust </th>
-                    <th> Jenis Mobil </th>
+                    <th> Jenis Motor </th>
                     <th> Plat </th>
                     <th> Status </th>
                     <th> Type</th>
